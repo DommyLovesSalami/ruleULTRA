@@ -77,8 +77,8 @@ export default defineConfig(
 // @version     0.0.0
 // @author      DommySalami
 // @match       https://rule34.xxx/*
-// @downloadURL http://localhost:8080/ruleUltra.user.js
-// @updateURL   http://localhost:8080/ruleUltra.user.js
+// @downloadURL https://github.com/DommyLovesSalami/ruleULTRA/raw/refs/heads/master/dist/ruleUltra.user.js
+// @updateURL   https://github.com/DommyLovesSalami/ruleULTRA/raw/refs/heads/master/dist/ruleUltra.user.js
 // ==/UserScript==
 `
     },
